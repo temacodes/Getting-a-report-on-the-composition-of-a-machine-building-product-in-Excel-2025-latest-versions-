@@ -1,4 +1,4 @@
-#С# Output of the composition of a machine-building product in Excel 2025
+С# Output of the composition of a machine-building product in Excel 2025
 
 using System.Data;
 using System.Linq;
